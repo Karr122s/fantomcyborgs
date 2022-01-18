@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xa4cef4aaD9950771A05D658C932320960b66fd70",
+  "SCAN_LINK": "https://ftmscan.com/address/0xa4cef4aaD9950771A05D658C932320960b66fd70",
+  "NETWORK": {
+    "NAME": "Fantom",
+    "SYMBOL": "FTM",
+    "ID": 250
+  },
+  "NFT_NAME": "Fantom_Cyborgs",
+  "SYMBOL": "FCB",
+  "MAX_SUPPLY": 4000,
+  "WEI_COST": 5000000000000000000,
+  "DISPLAY_COST": 5,
+  "GAS_LIMIT": 300000,
+  "MARKETPLACE": "Paintswap",
+  "MARKETPLACE_LINK": "https://paintswap.finance/marketplace/collections",
+  "SHOW_BACKGROUND": true
+}
