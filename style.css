@@ -174,6 +174,31 @@ nav .fa{
         font-size: 15px;
         color: rgb(145, 145, 115);
     }
+	.read{
+        width: 80%;
+        margin: auto;
+        text-align: center;
+        padding-top: 100px;
+    }
+    .row-read{
+        margin-top: 5%;
+        display: flex;
+        flex-direction: column;
+    }
+    h8{
+        text-align: center;
+        color: rgb(179, 179, 145);
+        font-size: 16px;
+        font-weight: 600;
+        margin: 10px;
+    }
+    p1{
+        text-align: center;
+        color: rgb(141, 141, 119);
+        font-size: 8px;
+        font-weight: 600;
+        margin: 10px;
+    }
 }
 
 /*-----------------------------------------------------------------------------------roadmap---------------------------------------------------------------------------*/
