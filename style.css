@@ -155,7 +155,6 @@ nav .fa{
         width: 25%;
     }
 
-    
     .text-box{
         width: 90%;
         color: #ffffff;
@@ -174,7 +173,7 @@ nav .fa{
         font-size: 15px;
         color: rgb(145, 145, 115);
     }
-	.read{
+    .read{
         width: 80%;
         margin: auto;
         text-align: center;
@@ -198,6 +197,42 @@ nav .fa{
         font-size: 8px;
         font-weight: 600;
         margin: 10px;
+    } 
+    .simple3{
+        display: flex;
+        width: 700px;
+        flex: 15%;
+    }
+    .columna{
+        margin-top: 50px;
+        float: center;
+        width: 50%;
+        
+    }
+    .columnb{
+        margin-top: 50px;  
+        float: center;
+        width: 50%;
+    }
+    .columnc{
+        margin-top: 50px;      
+        float: center;
+        width: 50%;
+    }
+    .bottom-left {
+        text-align: center;
+        font-size: 30px;
+        color: rgb(192, 62, 10);
+    }
+    .bottom-right {
+        text-align: center;
+        font-size: 30px;
+        color: rgb(192, 62, 10);
+    }
+    .center {
+        text-align: center;
+        font-size: 30px;
+        color: rgb(192, 62, 10);
     }
 }
 
@@ -319,8 +354,46 @@ h7{
     font-weight: 600;
     margin: 10px;
 }
-.mint-col:hover{
-    box-shadow: 0 0 20px 0 rgba(255, 255, 255);
+
+.simple3{
+    display: flex;
+    width: 100px;
+    padding: 5%;
+    flex: 15%;
+}
+.columna{
+    margin-top: 100px;
+    margin-left: 100px;
+    float: left;
+    width: 20%;
+    
+}
+.columnb{
+    margin-top: 100px;
+    margin-right: 100px;
+    float: right;
+    width: 20%;
+}
+.columnc{
+    margin-top: 100px;
+    margin-right: 100px;
+    float: right;
+    width: 20%;
+}
+.bottom-left {
+    text-align: center;
+    font-size: 30px;
+    color: rgb(192, 62, 10);
+}
+.bottom-right {
+    text-align: center;
+    font-size: 30px;
+    color: rgb(192, 62, 10);
+}
+.center {
+    text-align: center;
+    font-size: 30px;
+    color: rgb(192, 62, 10);
 }
 
 /*-----------------------------------------------------------------------------Read-----------------------------------------------------------------------------*/
